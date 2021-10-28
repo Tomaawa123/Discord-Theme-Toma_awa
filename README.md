@@ -1,2 +1,1 @@
-# no-c
-no c
+Discord Theme Toma awa
